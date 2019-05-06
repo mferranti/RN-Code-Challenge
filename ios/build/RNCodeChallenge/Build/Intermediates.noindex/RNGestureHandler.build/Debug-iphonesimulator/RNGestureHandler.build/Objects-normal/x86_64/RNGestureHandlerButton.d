@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/mferranti/Projects/RN-Code-Challenge/node_modules/react-native-gesture-handler/ios/RNGestureHandlerButton.m \
+  /Users/mferranti/Projects/RN-Code-Challenge/node_modules/react-native-gesture-handler/ios/RNGestureHandlerButton.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/node_modules/react-native-gesture-handler/ios/RNGestureHandler.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/node_modules/react-native-gesture-handler/ios/RNGestureHandlerState.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/node_modules/react-native-gesture-handler/ios/RNGestureHandlerDirection.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mferranti/Projects/RN-Code-Challenge/ios/build/RNCodeChallenge/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h
