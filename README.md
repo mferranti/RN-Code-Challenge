@@ -5,6 +5,8 @@
 
 Please clone the repository, complete the exercise, and submit a Pull Request for us to review! If you have any questions, you can reach out directly here or leave comments on your PR which we will respond to. Remember, all instructions for running the application (including installing relevant libraries, etc.) should be included in the README. 
 
+* npm install
+* react-native run-ios
 
 ## Delivery Steps: 
 
@@ -17,12 +19,21 @@ Please clone the repository, complete the exercise, and submit a Pull Request fo
 
 A) Describe the strategy used to consume the API endpoints and the data management.
 
+* I used redux as state container because this was a requirement. I created 2 reducers, one for the cocktail list and another for the individual drink data. In these reducers i declared the action creators and the properly reducer (redux with ducks). To making api calls i used Axios and ReduxAxiosMiddleware to fill in a simple way the reducers from api responses. This middleware create automatically the actions LOAD, LOAD_SUCCESS and LOAD_FAIL for every api call.
+The action creator are called in the Screen components on componentDidMount and if it's needed the data is passed to children as props.
+
 B) Explain which library was used for the routing and why. Would you use the same for a consumer facing app targeting thousands of users? Why?
+* I used react-navigation because is simple the requirements hasn't a very complex routing features. I don't think that the amount of users affect the decision of the router library. I would change the routing if the required features warrant it. For example if i need a better perfomance with routing i would use react-native-navigation perhaps, because it uses the native modules instead of JS bridge.
 
 C) Have you used any strategy to optimize the performance of the list generated for the first feature?
+* Yes, i use one of the benefits of FlatList. FlatList doesn't render all items in the same time, it render a item if it is in screen or if it is close. So, in renderItem of FlatList i call to a component CocktailIngredients who call an action creator on componentDidMount to fetch the individual drink data. If you don't scroll to much only will called a few of cocktails instead of all list of drinks.
 
 D) Would you like to add any further comments or observations?
-
+* Here is my todo-list:
+* Better aproximation to wireframe design (Fonts, icons, etc)
+* Filter feature of the list (this should not be hard)
+* Add tests. I haven't experience with testing in React Native but i think jest seems simple to this task
+* Only tested with ios simulator (Iphone X). Check if it works fine in Android.
 
 ## Overview:
 
